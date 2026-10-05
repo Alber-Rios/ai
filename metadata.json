@@ -1,0 +1,6 @@
+{
+  "name": "AeroCargo Inspect — Explicación Técnica y Código PyTorch",
+  "description": "Plataforma técnica interactiva para estudiar la clasificación de techos de contenedores con CNN ResNet-18, Transfer Learning, Data Augmentation, Grad-CAM y análisis de código en PyTorch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
